@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weight Converter</string>
+    <string name="convert">Convert</string>
+    <string name="input_hint">0</string>
+    <string name="to">To</string>
+    <string name="from">From</string>
+    <string name="value">Value:</string>
+    <string-array name="metric">
+        <item>Select</item>
+        <item>KG</item>
+        <item>LB</item>
+    </string-array>
+</resources>
